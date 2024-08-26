@@ -1,0 +1,22 @@
+.sobre-nos {
+    max-width: 50%;
+    background-color: #0B1414;
+    margin-top: 90px;
+    color: azure;
+    margin-bottom: 30px;
+}
+.content{
+    display: flex;
+}
+.img{   
+    margin-top: 90px;
+    background-color:#FF6F8D;
+    max-width: 50%;
+}
+p{
+    text-align: justify;
+    margin-top: 10px;
+    margin-left: 5%;
+    font-size: 24px;
+    max-width: 90%;
+}

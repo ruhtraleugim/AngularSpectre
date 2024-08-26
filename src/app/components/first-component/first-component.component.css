@@ -1,0 +1,55 @@
+nav {
+    margin-top: 10px;
+    color: azure;
+    display: flex;
+    height: 40px;
+    align-items: center;
+    justify-content: space-between;
+    
+}
+nav a {
+    text-decoration: none;
+}
+
+h1 {
+    
+    color: azure;
+}
+
+div a{
+    font-size: 30px;
+    margin-left: 15px;
+}
+
+
+.logo , ul{
+    display: flex;
+}
+ul{
+    list-style-type: none;
+}
+ul li {
+    margin-right: 50px;
+    font-size: 30px;
+    
+}
+ul li a {
+    color: azure;
+    list-style: none;
+    text-decoration: none;;
+}
+
+hr{
+    border-color: #FF6F8D;
+    margin-top: 10px;
+    margin-left: 15%;
+    width: 70%;
+    border-radius: 12px;
+}
+
+.mensagem{
+    color:azure;
+    font-size: 20px;
+    margin:0 20%;
+    margin-top: 40px;
+}
